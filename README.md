@@ -1,3 +1,7 @@
+# Sort Visualizer Project
+## About
+Sort Algorithm Visualizer project written on Javascript using React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
