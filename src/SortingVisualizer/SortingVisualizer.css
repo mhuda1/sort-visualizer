@@ -1,0 +1,26 @@
+.array-container {
+    display: inline;
+    margin-bottom: 0;
+}
+
+.buttons{
+    bottom: 0;
+    background-color: bisque;
+    height: 50px;
+}
+
+.container{
+    text-align: center;
+    height: 100vh;
+}
+
+.array-bar {
+    width: 4px;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.buttons button {
+    margin: 12px 5px 5px;
+}
+
